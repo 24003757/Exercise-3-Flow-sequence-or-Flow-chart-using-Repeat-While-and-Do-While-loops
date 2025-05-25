@@ -1,8 +1,8 @@
 # Exercise-3-Flow-sequence-or-Flow-chart-using-Repeat-While-and-Do-While-loops
 
 ~~~
-Name : W Allen Johnston Ozario  
-Reg.No : 21222411004  
+Name : Vinolia Alaina .R 
+Reg.No : 212224240184  
 ~~~
 
 ## Aim:
